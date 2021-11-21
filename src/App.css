@@ -1,0 +1,12 @@
+.main-dev {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background: #060822;
+}
+.child-div {
+  text-align: center;
+  margin-top: 12rem;
+  color: white;
+  font-family: Lucida Console;
+}
